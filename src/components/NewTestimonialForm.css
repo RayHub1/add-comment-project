@@ -1,0 +1,36 @@
+
+.second-div{
+    display:flex;
+    flex-direction: column;
+    padding: 2vw;
+
+     
+}
+input{
+    height: 3vw;
+    font-size: 20vw;
+}
+.input-special {
+    height: 7rem;
+    font-size: 20vw;
+}
+.form-control{
+    background-color: grey;
+    width: 53vw;
+    margin-top: 5vw;
+    margin-left: 1vw;
+    padding: 20px 0;
+    border-radius: 1rem;
+  
+}
+label{
+    font-size: 30px;
+}
+.form-btn{
+    height: 3rem;
+    margin: 10px;
+    position: relative;
+    left: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}

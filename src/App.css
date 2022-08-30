@@ -1,0 +1,9 @@
+ 
+.main-card{
+  display: flex;
+  background-color: gray;
+  width: 50rem;
+  padding: 20px;
+  align-items: center;
+}
+ 
